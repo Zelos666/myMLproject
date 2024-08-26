@@ -1,0 +1,45 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.json
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.onnx
+*.ckpt
+
+# Logs
+*.log
+*.out
+*.txt
+
+# Cache files
+*.cache
+*.pickle
+
+# IDE specific
+.vscode/
+.idea/
+
+# Machine learning specific tools
+wandb/
+mlruns/
