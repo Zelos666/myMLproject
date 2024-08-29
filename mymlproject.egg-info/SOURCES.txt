@@ -1,0 +1,7 @@
+setup.py
+mymlproject.egg-info/PKG-INFO
+mymlproject.egg-info/SOURCES.txt
+mymlproject.egg-info/dependency_links.txt
+mymlproject.egg-info/requires.txt
+mymlproject.egg-info/top_level.txt
+src/__init__.py

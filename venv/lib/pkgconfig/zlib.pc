@@ -1,0 +1,13 @@
+prefix=/Users/javvad/mymlproject/venv
+exec_prefix=/Users/javvad/mymlproject/venv
+libdir=/Users/javvad/mymlproject/venv/lib
+sharedlibdir=/Users/javvad/mymlproject/venv/lib
+includedir=/Users/javvad/mymlproject/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

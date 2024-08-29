@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mymlproject
+Version: 0.0.1
+Author: Javvad
+Author-email: javvadraza456@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
